@@ -20,7 +20,7 @@ Features
 
 First, clone the repository to your local machine: 
 ```
-$ git clone https://github.com/M0H3Y/django-blog && cd django-blgo
+$ git clone https://github.com/M0H3Y/django-blog && cd django-blog
 ```
 
 Install the requirements:
