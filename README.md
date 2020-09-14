@@ -22,7 +22,6 @@ First, clone the repository to your local machine:
 ```
 $ git clone https://github.com/M0H3Y/django-blog && cd django-blgo
 ```
-Make Sure you are in the root directory of the project.
 
 Install the requirements:
 ```
