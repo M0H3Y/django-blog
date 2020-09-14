@@ -19,8 +19,8 @@ Features
 # How To Run Locally 
 
 First, clone the repository to your local machine: 
-```bash
-git clone https://github.com/M0H3Y/django-blog 
+```
+$ git clone https://github.com/M0H3Y/django-blog && cd django-blgo
 ```
 Make Sure you are in the root directory of the project.
 
@@ -31,20 +31,20 @@ $ pip install -r requirements.txt
 
 Run migrations: 
 ```
-python3 manage.py makemigrations 
-python3 manage.py migrate
+$ python3 manage.py makemigrations 
+$ python3 manage.py migrate
 ```
 
 Create A SuperUser:
 
 ```
-python3 manage.py createsuperuser  
+$ python3 manage.py createsuperuser  
 ```
 
 Run the Server : 
 
 ```
-python3 manage.py runserver
+$ python3 manage.py runserver
 ```
 
 Now, You can go to http://localhost:8000/ and you can login with the admin account in http://localhost:8000/admin/.
